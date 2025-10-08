@@ -1,2 +1,26 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "bfc821011dfc8b9bdf7f8ae55377fbc57d5867ddf164f268f40ad02b4d201565"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9eb0ad2cd0e409ea588069d7458f4cf2c705ecf71599e06dfe780b13de0013c6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d71e189f87b991121bb9fc47a880b6ddd4be27058d8b18da334e09e3117319d9"
+metafile = true
